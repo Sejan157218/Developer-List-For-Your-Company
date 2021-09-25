@@ -1,0 +1,12 @@
+.col{
+    width: 20.333333%;
+}
+.card-body{
+    padding: 1rem 0rem;
+}
+.card{
+    border: none;
+}
+.card img{
+    border-radius: .50rem;
+}

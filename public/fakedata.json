@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sejan mahmud 1",
+    "identity": " reactd eveloper 1",
+    "key": 1,
+    "age": 25,
+    "salary": 2000,
+    "img": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "name": "sejan mahmud 2",
+    "identity": "reactd eveloper 2",
+    "key": 2,
+    "age": 25,
+    "salary": 3000,
+    "img": "https://randomuser.me/api/portraits/men/76.jpg"
+  },
+  {
+    "name": "sejan mahmud 3",
+    "identity": "reactd eveloper 3",
+    "key": 3,
+    "age": 25,
+    "salary": 4000,
+    "img": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "name": "sejan mahmud 4",
+    "identity": "reactd eveloper 4",
+    "key": 4,
+    "age": 25,
+    "salary": 5000,
+    "img": "https://randomuser.me/api/portraits/men/79.jpg"
+  },
+  {
+    "name": "sejan mahmud 5",
+    "identity": "reactd eveloper 5",
+    "key": 5,
+    "age": 25,
+    "salary": 6000,
+    "img": "https://randomuser.me/api/portraits/men/80.jpg"
+  }
+]
