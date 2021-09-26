@@ -1,5 +1,6 @@
 .col{
-    width: 20.333333%;
+    width: 24.333333%;
+    text-align: center;
 }
 .card-body{
     padding: 1rem 0rem;
@@ -9,4 +10,28 @@
 }
 .card img{
     border-radius: .50rem;
+}
+.title{
+    color: #ff7800;
+    font-weight: 700;
+}
+.name-color{
+    color: #333333;
+}
+.icon-color{
+    color: #ff7800;
+}
+.linkedin-color{
+    color: #0077b7;
+}
+.facebook-color{
+    color: #475993;
+}
+.github-color{
+    color: #76a9ea;
+}
+.regular-btn{
+    background-color: #f6f6f6;
+    padding: 0px 10px;
+    border-radius: 20px;
 }

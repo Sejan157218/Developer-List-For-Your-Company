@@ -1,3 +1,13 @@
-.col-show{
-width: 12%;
+.add-1mg{
+width: 80%;
+border-radius: 5px;
+}
+.close-icon{
+    margin-bottom: 0px;
+    text-align: right;
+    margin-right: 26px;
+    
+}
+.close-icon-color{
+    color: #cb3333;
 }
