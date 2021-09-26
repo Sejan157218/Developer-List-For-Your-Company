@@ -30,7 +30,10 @@ const Team = (props) => {
                 <a href="https://twitter.com/" target='blank'><i className="fab fa-twitter m-1 github-color"/></a>
                 <a href="https://www.linkedin.com/" target='blank'><i className="fab fa-linkedin m-1 linkedin-color"/></a>
                 </h5>
+                <div className="card-footer">
                 <button onClick={()=>props.handlerAddMember(props.member)} type="button" className="regular-btn">{addPeople} Add Developer</button>
+                </div>
+               
             </div>
             </div>
         </div>
