@@ -7,9 +7,8 @@ import './team.css'
 
 const Team = (props) => {
     const {name,title,experience,salary,rating,img} = props.member;
-    const addPeople = <FontAwesomeIcon icon={faUserPlus} />
+    const addPeopleIcon = <FontAwesomeIcon icon={faUserPlus} />
     return (
-
         <div className="col">
             <div className="card h-100">
             <img src={img} className="card-img-top" alt=''/>
@@ -31,7 +30,7 @@ const Team = (props) => {
                 <a href="https://www.linkedin.com/" target='blank'><i className="fab fa-linkedin m-1 linkedin-color"/></a>
                 </h5>
                 <div className="card-footer">
-                <button onClick={()=>props.handlerAddMember(props.member)} type="button" className="regular-btn">{addPeople} Add Developer</button>
+                <button onClick={()=>props.handlerAddMember(props.member)} type="button" className="regular-btn">{addPeopleIcon} Add Developer</button>
                 </div>
                
             </div>
